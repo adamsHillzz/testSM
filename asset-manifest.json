@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adamsHillzz/static/css/main.073c9b0a.css",
+    "main.js": "/adamsHillzz/static/js/main.76a77d8a.js",
+    "static/js/787.40ac5c67.chunk.js": "/adamsHillzz/static/js/787.40ac5c67.chunk.js",
+    "static/media/logo.svg": "/adamsHillzz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/adamsHillzz/index.html",
+    "main.073c9b0a.css.map": "/adamsHillzz/static/css/main.073c9b0a.css.map",
+    "main.76a77d8a.js.map": "/adamsHillzz/static/js/main.76a77d8a.js.map",
+    "787.40ac5c67.chunk.js.map": "/adamsHillzz/static/js/787.40ac5c67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.76a77d8a.js"
+  ]
+}
